@@ -2,7 +2,6 @@
 layout: post
 title: 함수형 프로그래밍 스터디 세미나 (fun-fun-study)
 date: 2018-10-17 21:20:00 +0300
-description: 함수형 프로그래밍 세미나 정리
 img: funfun.jpg # Add image post (optional)
 tags: [Functional, Programming] # add tag
 ---
