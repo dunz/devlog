@@ -84,4 +84,14 @@ div {
 
 > 참고: 웹폰트 최적화[Link](https://slides.com/sangjinlee/webconf-2018-5#/)
             
+### 5세션) 자체 polyfill.io 서버 구축하여 프론트엔드 최적화하기 - 임형주(레진코믹스)
+- useBuiltIns: usage 옵션
+
+##### polyfill
+> useragent를 체크하여 필요한 항목만 import
  
+> 참고: 자체 polyfill.io 서버 구축하여 프론트엔드 최적화하기[Link](https://slides.com/odyss/deck-8#/)
+
+### 6세션 Front-End 프로젝트의 Test code 작성 경험기 - 김아름(코드스쿼드)
+
+> 참고: Front-End 프로젝트의 Test code 작성 경험기[Link](https://drive.google.com/file/d/1oiBAdr20fbmjUofwkKzOPydJLREoGzEM/view)
